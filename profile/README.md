@@ -6,4 +6,4 @@
 
 <h2>What does H3IMD3LL Labs do?</h2>
 
-Currenlty, we're building H3IMD3LL an end-to-end cloud-native data analytics platform, that allows organisations to collect, view and make decisions from their data, without human intervention.
+We build tools that are Open-Source and Source-Available for developers :-)
