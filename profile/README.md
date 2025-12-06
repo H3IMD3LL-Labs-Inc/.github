@@ -6,4 +6,4 @@
 
 <h2>What does H3IMD3LL Labs do?</h2>
 
-We're building the fastest, most performant observability platform
+We're building the fastest, most performant observability platform possible. See [VES](https://ves.heimdelllabs.cloud/documentation/ves-v0.1.0/intro)
